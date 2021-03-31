@@ -27,7 +27,7 @@ My research interests include
 . *Huan Lei*, Naveed Akhtar, and Ajmal Mian, \"SegGCN: Efficient 3D Point Cloud Segmentation with Fuzzy Spherical Kernel\", *CVPR*, 2020. \[[https://github.com/hlei-ziyan/SegGCN code]\]
 . *Huan Lei*, Naveed Akhtar, and Ajmal Mian, \"Spherical Kernel for Efficient Graph Convolution on 3D Point Clouds\", *TPAMI*, 2020 March. \[[https://github.com/hlei-ziyan/SPH3D-GCN code]\]
 . *Huan Lei*, Naveed Akhtar, and Ajmal Mian, \"Octree guided CNN with Spherical Kernels for 3D Point Clouds\", *CVPR*, 2019.
-. *Huan Lei*, Guang Jiang, Long Quan, \"Fast Descriptors and Correspondence Propa-gation for Robust Global Point Cloud Registration\", *TIP*, 2017.
+#. *Huan Lei*, Guang Jiang, Long Quan, \"Fast Descriptors and Correspondence Propa-gation for Robust Global Point Cloud Registration\", *TIP*, 2017.
 
 #[publications.html Full list of publications].
 \n
