@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
-==Huan Lei
+==Huan Lei 
 
 ~~~
 {}{img_left}{huan.png}{click text}{131}{178}{}
@@ -10,16 +10,21 @@ Perth, Australia \n
 Email: /huan/ \[dot\] /lei/ \[at\] /research/ \[dot\] /uwa/ \[dot\] /edu/ \[dot\] /au/
 ~~~
 
+
 == About
-I am a PhD candidate at the University of Western Australia, and submitting my thesis in August, 2021.
+I received my PhD degree from the University of Western Australia in December, 2021.
 
 == Research
 My research interests include 
 - 3D Vision, Geometric Deep Learning
-- Adversarial machine learning
 - Self-supervised, Unsupervised learning
+- Computational Geometry
+- Adversarial machine learning
 - Relational networks, Graphical models
 - Medical image processing
+
+== Preprints
+. *Huan Lei*, Naveed Akhtar, Mubarak Shah, and Ajmal Mian, \"Geometric Feature Learning for 3D Meshes\",  arXiv, Dec 2021. \[[https://arxiv.org/abs/2112.01801 paper]\]\[[https://github.com/hlei-ziyan/Picasso code]\]
 
 #[research.html Find out more].
 == Selected Publications
@@ -27,7 +32,7 @@ My research interests include
 . *Huan Lei*, Naveed Akhtar, and Ajmal Mian, \"SegGCN: Efficient 3D Point Cloud Segmentation with Fuzzy Spherical Kernel\", *CVPR*, 2020. \[[https://github.com/hlei-ziyan/SegGCN code]\]
 . *Huan Lei*, Naveed Akhtar, and Ajmal Mian, \"Spherical Kernel for Efficient Graph Convolution on 3D Point Clouds\", *TPAMI*, 2020 March. \[[https://github.com/hlei-ziyan/SPH3D-GCN code]\]
 . *Huan Lei*, Naveed Akhtar, and Ajmal Mian, \"Octree guided CNN with Spherical Kernels for 3D Point Clouds\", *CVPR*, 2019.
-#. *Huan Lei*, Guang Jiang, Long Quan, \"Fast Descriptors and Correspondence Propa-gation for Robust Global Point Cloud Registration\", *TIP*, 2017.
+#. *Huan Lei*, Guang Jiang, Long Quan, \"Fast Descriptors and Correspondence Propagation for Robust Global Point Cloud Registration\", *TIP*, 2017.
 
 #[publications.html Full list of publications].
 
